@@ -1,0 +1,17 @@
+# Folders
+Google Sheets/
+Looker Studio/
+Microsoft Excel/
+Microsoft Power BI/
+Private/
+Tableau/
+Temp/
+WIP/
+
+# Windows system files
+desktop.ini
+thumbs.db
+
+# File types
+*.json
+*.env
